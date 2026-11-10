@@ -64,6 +64,14 @@ flowchart LR
 
 *The automations as built in n8n. Private details have been removed from the images.*
 
+**Enquiry, booking and follow-up workflow**
+
+![Enquiry, booking and follow-up workflow](docs/images/enquiry-booking-workflow.png)
+
+**Safety net: error alerts and recovery**
+
+![Error alerts and recovery workflow](docs/images/error-recovery-workflow.png)
+
 **Real-estate lead-to-viewing workflow**
 
 ![Real-estate workflow](docs/images/real-estate-workflow.png)
